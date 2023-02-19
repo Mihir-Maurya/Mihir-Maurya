@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Core java**
+- 💬 Ask me about **html,css,javascript,bootstrap,git and github ,Core java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
