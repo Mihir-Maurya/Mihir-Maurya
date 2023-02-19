@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-maurya" /> </p>
 
-- 🔭 I’m currently doing **Btech in CSE**
+- 🔭 Aspering web developer
 
 - 🌱 I’m currently learning **Javascript**
 
