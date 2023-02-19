@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently doing **Btech in CSE**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Core java**
 
