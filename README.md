@@ -5,7 +5,7 @@
 
 - 🔭 Aspering web developer
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **html,css,javascript,bootstrap,git and github ,Core java**
 
