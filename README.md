@@ -5,7 +5,7 @@
 
 - 🔭 looking for frontend web developer roles 
 
-- 🌱 I’m currently learning **flutter and nodejs**
+- 🌱 I’m currently learning **nodejs**
 
 - 💬 Ask me about **html,css,javascript,reactjs,bootstrap,sql,git and github ,Core java**
 
