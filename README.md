@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-maurya" /> </p>
 
-- 🔭 looking for frontend web developer roles 
+- 🔭 looking for  web developer roles 
 
-- 🌱 I’m currently learning **nodejs**
+- 
 
-- 💬 Ask me about **html,css,javascript,reactjs,bootstrap,sql,git and github ,Core java**
+- 💬 Ask me about **html,css,javascript,reactjs,bootstrap,sql,git and github ,Core java , node.js,express.js , mongodb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
